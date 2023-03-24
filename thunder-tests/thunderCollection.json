@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "d09b287e-087f-4681-b583-294eeaee9175",
+    "colName": "HttpMethods",
+    "created": "2023-03-24T18:12:03.114Z",
+    "sortNum": 10000,
+    "folders": []
+  },
+  {
+    "_id": "65b65137-cc9c-403d-a488-6286a290ab31",
+    "colName": "StatusCodes",
+    "created": "2023-03-24T18:13:14.721Z",
+    "sortNum": 20000,
+    "folders": []
+  },
+  {
+    "_id": "81ef1536-767b-43a2-9438-0039d77ce212",
+    "colName": "AnyThing",
+    "created": "2023-03-24T18:14:28.520Z",
+    "sortNum": 30000,
+    "folders": []
+  },
+  {
+    "_id": "6a27f86d-1676-42f4-8474-ffd85c3b64db",
+    "colName": "DynamicData",
+    "created": "2023-03-24T18:22:07.512Z",
+    "sortNum": 40000,
+    "folders": []
+  },
+  {
+    "_id": "3d0c47a3-bf36-4df8-b1b4-5a349cab1b55",
+    "colName": "RequestInspection",
+    "created": "2023-03-24T18:22:55.464Z",
+    "sortNum": 50000,
+    "folders": [],
+    "settings": {}
+  }
+]
